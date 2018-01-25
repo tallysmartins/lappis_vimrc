@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/tallys/git/cityplot'
+let g:netrw_dirhist_2='/home/tallys/git/dev-env/data-collector'
+let g:netrw_dirhist_3='/home/tallys/git/dev-env/data-collector/app/models'
+let g:netrw_dirhist_4='/home/tallys/git/dev-env/data-collector'
+let g:netrw_dirhist_5='/home/tallys/git/dev-env/data-collector/app/models'
+let g:netrw_dirhist_6='/bin'
